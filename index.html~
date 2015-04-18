@@ -108,7 +108,7 @@
                         <!--<h2>Download Grayscale</h2>
                     <p>You can download Grayscale for free on the preview page at Start Bootstrap.</p>
                     <a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit Download Page</a>-->
-                        <h2 style="padding:0 0 30px">Contact</h2>
+                        <h2 style="padding:0 0 10px">Contact</h2>
                         <!--<p>Here's how to reach us</p>-->
                         <!--<p><a href="mailto:mail@scarpella.com" class="btn btn-default btn-lg"><i class="fa fa-envelope-o fa-fw"></i> <span class="network-name">email</span></a>
                 </p>-->
